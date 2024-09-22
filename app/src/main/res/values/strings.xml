@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Internet Speed Meter</string>
+    <string name="speed_percent">Signal: 0%</string>
+    <string name="speed">Down: 0 KB/s Up: 0 KB/s</string>
 </resources>
